@@ -8,3 +8,5 @@ The modules required are:
 - Sklearn
 - Matplotlib
 - Seaborn
+
+We try to predict the **Yearly Amount Spent** using the appropriate parameters in the dataset 
